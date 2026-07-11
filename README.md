@@ -2,7 +2,7 @@
 
 # Employee Registration & Authentication System 🔐
 
-A full-stack MERN application that provides secure user authentication with Email OTP verification and an Employee Registration Dashboard. Users can sign up, verify their email, log in, register employee details, and view all registered employees.
+A full-stack MERN application that provides secure user authentication with Email OTP verification and an Employee Registration Dashboard. Users an sign up, verify their email, log in, register employee details, and view all registered employees.
 
 </div>
 
