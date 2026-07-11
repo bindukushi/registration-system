@@ -144,7 +144,7 @@ employee-registration-system/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/employee-registration-system.git
+git clone https://github.com/bindukushi/registration-system
 ```
 
 ## Backend Setup
