@@ -82,9 +82,9 @@ Employee Information includes:
 
 ![Sign Up](screenshots/signup.png)
 
-### Dashboard
+### Email Verification
 
-![Dashboard](screenshots/dashboard.png)
+![Email Verification](screenshots/email-verify.png)
 
 ### Employee Registration
 
@@ -94,9 +94,6 @@ Employee Information includes:
 
 ![Employee List](screenshots/employee-list.png)
 
-### Email Verification
-
-![Email Verification](screenshots/email-verify.png)
 
 ---
 
