@@ -72,31 +72,6 @@ Employee Information includes:
 
 ---
 
-## Screenshots
-
-### Login
-
-![Login](screenshots/login.png)
-
-### Sign Up
-
-![Sign Up](screenshots/signup.png)
-
-### Email Verification
-
-![Email Verification](screenshots/email-verify.png)
-
-### Employee Registration
-
-![Employee Registration](screenshots/register-employee.png)
-
-### Employee List
-
-![Employee List](screenshots/employee-list.png)
-
-
----
-
 # 📂 Project Structure
 
 ```
@@ -137,6 +112,30 @@ employee-registration-system/
 ├── README.md
 └── .env.example
 ```
+---
+
+## Screenshots
+
+### Login
+
+![Login](screenshots/login.png)
+
+### Sign Up
+
+![Sign Up](screenshots/signup.png)
+
+### Email Verification
+
+![Email Verification](screenshots/email-verify.png)
+
+### Employee Registration
+
+![Employee Registration](screenshots/register-employee.png)
+
+### Employee List
+
+![Employee List](screenshots/employee-list.png)
+
 
 ---
 
